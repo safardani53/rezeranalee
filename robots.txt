@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://rezeranalee.pages.dev/sitemap.xml
